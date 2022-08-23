@@ -1,7 +1,7 @@
 
 ![readme header](/assets/visual_header.jpg)
 
-# **Beyond Notebooks** - Waves as a ML Service
+# **Beyond Notebooks** - Prediction Services in Python
 
 ## **A Serverless ML Prediction Services**
 **Beyond Notebooks: Serverless ML Prediction Services** is an open and free Machine Learning course where you can learn to build serverless ML systems with only `Python` and open tools. It is led by [Jim Dowling](https://www.kth.se/profile/jdowling), Associate Professor at KTH Royal University and Co-founder of [Hopsworks](https://hopsworks.ai).
